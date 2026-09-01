@@ -1,6 +1,6 @@
 # CircuitBreaker
 Proyecto de la materia LPOO
-# Integrantes del Grupo:
+> Integrantes del Grupo:
 
 Felipe Schivo
 
