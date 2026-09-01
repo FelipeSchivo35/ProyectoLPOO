@@ -20,4 +20,5 @@ Persistencia de Datos (planeado): MariaDB y MariaDB Connector/J para el registro
 
 Plataformas de Desarrollo Objetivo: Escritorio.
 Herramientas Adicionales: Tiled para el diseño de niveles, Git/GitHub para control de versiones y Scene2D para la interfaz de usuario
+
 [Esta seria la propuesta completa](https://github.com/FelipeSchivo35/ProyectoLPOO/wiki/Propuesta-%E2%80%90-Circuit-Breaker)
