@@ -29,7 +29,11 @@ allprojects {
 
 configure(subprojects) {
   apply plugin: 'java-library'
+<<<<<<< HEAD
   sourceCompatibility = 21.0.6
+=======
+  sourceCompatibility = 21
+>>>>>>> 6c3fa79 (Correccion README.md, wiki, y esqueleto del proyecto para que arranque)
 
   // From https://lyze.dev/2021/04/29/libGDX-Internal-Assets-List/
   // The article can be helpful when using assets.txt in your project.

@@ -22,10 +22,17 @@ sourceSets.main.resources.srcDirs += [ rootProject.file('assets').path ]
 mainClassName = 'com.proyecto.eyk.lwjgl3.Lwjgl3Launcher'
 application.setMainClass(mainClassName)
 eclipse.project.name = appName + '-lwjgl3'
+<<<<<<< HEAD
 java.sourceCompatibility = 21.0.6
 java.targetCompatibility = 21.0.6
 if (JavaVersion.current().isJava9Compatible()) {
         compileJava.options.release.set(21.0.6)
+=======
+java.sourceCompatibility = 21
+java.targetCompatibility = 21
+if (JavaVersion.current().isJava9Compatible()) {
+        compileJava.options.release.set(21)
+>>>>>>> 6c3fa79 (Correccion README.md, wiki, y esqueleto del proyecto para que arranque)
 }
 
 dependencies {
